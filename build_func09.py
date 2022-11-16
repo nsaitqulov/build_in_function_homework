@@ -7,5 +7,6 @@ def main(x,y):
     Returns:
         result : int
     """
-    return 
-
+    a=2*(pow(y, 3) + pow(x, 2) * y)
+    return a
+print(main(2, 4))
