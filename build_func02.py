@@ -5,5 +5,6 @@ def main():
     Returns:
         result: float
     """
-
-    return
+    x=3*(7/5-9/4)
+    return x
+print(main())
