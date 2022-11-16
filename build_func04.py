@@ -6,4 +6,7 @@ def main(n):
     Returns:
         result : float
     """
-    return 
+    x=pow((2+n)/3, 2)
+    return x
+
+print(main(4))
